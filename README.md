@@ -29,7 +29,8 @@ This is a Windows desktop application built with **Python**, **Tkinter**, and **
 
 ## 📸 Screenshots
 
-*(Insert screenshots here showing the UI, query form, email window, etc.)*
+![image](https://github.com/user-attachments/assets/8a64dac8-dba1-4e95-9c23-48b12c1087ef)
+
 
 ---
 
