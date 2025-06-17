@@ -55,6 +55,6 @@ This is a Windows desktop application built with **Python**, **Tkinter**, and **
 
 ```bash
 git clone https://github.com/dteshager/file-watcher-app.git
-cd file-watcher-app
+cd File-System-Watcher
 pip install -r requirements.txt
-python app.py
+python main.py
