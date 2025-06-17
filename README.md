@@ -28,11 +28,13 @@ This is a Windows desktop application built with **Python**, **Tkinter**, and **
 ---
 
 ## 📸 Screenshots
-
+#File System Watcher Home page
 ![image](https://github.com/user-attachments/assets/8a64dac8-dba1-4e95-9c23-48b12c1087ef)
 
+#Query Database
 ![image](https://github.com/user-attachments/assets/0a14ef0d-bbbd-4cb6-a335-7600704e425d)
 
+#Send the database/query as csv file with email
 ![image](https://github.com/user-attachments/assets/b902fa94-bc90-4875-a3b0-778eaa4b2571)
 
 
